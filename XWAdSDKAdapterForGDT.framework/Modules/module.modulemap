@@ -1,0 +1,6 @@
+framework module XWAdSDKAdapterForGDT {
+  umbrella header "XWAdSDKAdapterForGDT.h"
+
+  export *
+  module * { export * }
+}
